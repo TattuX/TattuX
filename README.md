@@ -75,7 +75,7 @@ I enjoy exploring new tools, solving challenges, and growing step by step. ðŸ› ï
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,discord" />
   </a>
 </p>
 
