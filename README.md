@@ -60,7 +60,7 @@ I enjoy exploring new tools, solving challenges, and growing step by step. ðŸ› ï
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=js,css,html" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ I enjoy exploring new tools, solving challenges, and growing step by step. ðŸ› ï
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,discord,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,discord,bots,idea" />
   </a>
 </p>
 
