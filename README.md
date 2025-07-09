@@ -40,7 +40,7 @@ I enjoy exploring new tools, solving challenges, and growing step by step. ðŸ› ï
 <a href="https://www.facebook.com/andresfelipe.vegamozo.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tattux.x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@TattuX_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1360804414541005001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1360804414541005001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="40" width="40" /></a>
 </p>
 
 <br>
