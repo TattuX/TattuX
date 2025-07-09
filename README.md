@@ -44,7 +44,7 @@ I enjoy exploring new tools, solving challenges, and growing step by step. ðŸ› ï
 </p>
 
 <br>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
